@@ -1,9 +1,4 @@
-/*Siyan Pu
- * Net id: spu
- * project 03
- * lab section: mw 12:30-1:45
- * "I did not collaborate with anyone on this assignment"   */
- 
+
  This project is to run in Eclipse
  
  After you run the main class, you will see several buttons named different types of fireworks and several sliders to choose parameters.
