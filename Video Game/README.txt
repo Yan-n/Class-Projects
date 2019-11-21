@@ -1,6 +1,6 @@
 
  
- This project is to run in Eclipse
+This project is to run in Eclipse
  
 You need five keys to play this game.
 space key: to start a run
